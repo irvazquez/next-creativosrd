@@ -1,0 +1,26 @@
+[
+  {
+    "title": "about-us",
+    "path": "about-us"
+  },
+  {
+    "title": "metodology",
+    "path": "metodology"
+  },
+  {
+    "title": "services",
+    "path": "services"
+  },
+  {
+    "title": "clients",
+    "path": "clients"
+  },
+  {
+    "title": "blog",
+    "path": "blog"
+  },
+  {
+    "title": "art-gallery",
+    "path": "art-gallery"
+  }
+]
