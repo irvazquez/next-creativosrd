@@ -1,0 +1,58 @@
+[
+  {
+    "title": "marketing.title",
+    "text": "marketing.text",
+    "icon": {
+      "src": "/images/icons/marketingDigital.svg",
+      "alt": "Marketing Digital icon"
+    }
+  },
+  {
+    "title": "brandDevelopment.title",
+    "text": "brandDevelopment.text",
+    "icon": {
+      "src": "/images/icons/brandDeveloper.svg",
+      "alt": "Brand Developer icon"
+    }
+  },
+  {
+    "title": "graphicDesign.title",
+    "text": "graphicDesign.text",
+    "icon": {
+      "src": "/images/icons/graphicDesign.svg",
+      "alt": "Graphic Design icon"
+    }
+  },
+  {
+    "title": "digitalIdentity.title",
+    "text": "digitalIdentity.text",
+    "icon": {
+      "src": "/images/icons/digitalIdentity.svg",
+      "alt": "Digital Identity icon"
+    }
+  },
+  {
+    "title": "multimedia.title",
+    "text": "multimedia.text",
+    "icon": {
+      "src": "/images/icons/multimedia.svg",
+      "alt": "Multimedia icon"
+    }
+  },
+  {
+    "title": "copywriting.title",
+    "text": "copywriting.text",
+    "icon": {
+      "src": "/images/icons/copywriting.svg",
+      "alt": "Copywriting icon"
+    }
+  },
+  {
+    "title": "brandActivation.title",
+    "text": "brandActivation.text",
+    "icon": {
+      "src": "/images/icons/brandActivation.svg",
+      "alt": "Brand Activation icon"
+    }
+  }
+]

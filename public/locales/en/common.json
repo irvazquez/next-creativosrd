@@ -1,5 +1,40 @@
 {
-  "header": {
-    "hello-world": "Hello World"
+  "metadata": {
+    "home": {
+      "title": "Creativos RD",
+      "description": "Main page"
+    },
+    "about-us": {
+      "title": "About Us | CRD",
+      "description": "About us description"
+    },
+    "art-gallery": {
+      "title": "Art Gallery | CRD",
+      "description": "Art Gallery description"
+    },
+    "clients": {
+      "title": "Clients",
+      "description": "Clients description"
+    },
+    "metodology": {
+      "title": "Metodology | CRD",
+      "description": "Metodology description"
+    },
+    "services": {
+      "title": "Services | CRD",
+      "description": "Services description"
+    }
+  },
+  "art-gallery": {
+    "title": "CRD Art Gallery"
+  },
+  "clients": {
+    "title": "Clients",
+    "location": "Location",
+    "service": "Service",
+    "challenge": "Challenge"
+  },
+  "methodology": {
+    "title": "Metodology"
   }
 }

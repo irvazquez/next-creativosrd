@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Facebook",
+    "icon": "/images/icons/facebook.svg",
+    "url": "https://www.facebook.com/creativosrd/"
+  },
+  {
+    "name": "Instagram",
+    "icon": "/images/icons/instagram.svg",
+    "url": "https://www.instagram.com/creativosrd_oficial/"
+  },
+  {
+    "name": "LinkedIn",
+    "icon": "/images/icons/linkedin.svg",
+    "url": "https://www.linkedin.com/organization-guest/company/creativos-rd"
+  },
+  {
+    "name": "Whatsapp",
+    "icon": "/images/icons/whatsapp.svg",
+    "url": "https://api.whatsapp.com/send?phone=523318946234&text=Hola%20Creativos%20RD%20podr%C3%ADan%20ayudarme%20con%20"
+  },
+  {
+    "name": "YouTube",
+    "icon": "/images/icons/youtube.svg",
+    "url": "https://www.youtube.com/@creativosrd6159"
+  }
+]

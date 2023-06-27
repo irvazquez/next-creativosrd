@@ -1,0 +1,62 @@
+[
+  {
+    "color": "#ff4e00",
+    "name": "benchmark",
+    "title": "benchmark.title",
+    "text": "benchmark.text",
+    "icon": {
+      "src": "/images/icons/eye.svg",
+      "alt": "Eye icon"
+    }
+  },
+  {
+    "color": "#f59e0b",
+    "name": "target",
+    "title": "target.title",
+    "text": "target.text",
+    "icon": {
+      "src": "/images/icons/target.svg",
+      "alt": "Target icon"
+    }
+  },
+  {
+    "color": "#22c55e",
+    "name": "objective",
+    "title": "objective.title",
+    "text": "objective.text",
+    "icon": {
+      "src": "/images/icons/objetive.svg",
+      "alt": "Objective icon"
+    }
+  },
+  {
+    "color": "#38bdf8",
+    "name": "digitalEcosystem",
+    "title": "digitalEcosystem.title",
+    "text": "digitalEcosystem.text",
+    "icon": {
+      "src": "/images/icons/digital.svg",
+      "alt": "Digital ecosystem icon"
+    }
+  },
+  {
+    "color": "#a3e635",
+    "name": "results",
+    "title": "results.title",
+    "text": "results.text",
+    "icon": {
+      "src": "/images/icons/result.svg",
+      "alt": "Results icon"
+    }
+  },
+  {
+    "color": "#701a75",
+    "name": "strategy",
+    "title": "strategy.title",
+    "text": "strategy.text",
+    "icon": {
+      "src": "/images/icons/strategy.svg",
+      "alt": "Strategy icon"
+    }
+  }
+]

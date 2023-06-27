@@ -1,0 +1,30 @@
+{
+  "marketing": {
+    "title": "Marketing<br />Integral",
+    "text": "Sin importar si es marketing online u offline, diseñamos estrategias que posisionan marcas y productos en la mente del consumidor."
+  },
+  "brandDevelopment": {
+    "title": "Desarrollo<br />de marca",
+    "text": "Más que un logotipo y eslogan, consolidamos a las marcas, creamos su esencia, con la que conquistará audiencias y logrará"
+  },
+  "graphicDesign": {
+    "title": "Diseño<br />Gráfico",
+    "text": "Hacemos diseño disruptivo que se posiciona a través de los colores y gráfica en la lmente del cosumidor."
+  },
+  "digitalIdentity": {
+    "title": "Identidad<br />Digital",
+    "text": "Diseño web adaptado a las necesidades y características del cliente con la finalidad de posicionar y vender (por e-commerce o marketplace) a través de interfaces llamativas, rápidas y armónicas."
+  },
+  "multimedia": {
+    "title": "Producción<br />Foto y Video",
+    "text": "Definimos la narrativa visual de las marcas para conectar con sus cliente, a través de la creatividad producimos historias que generan resultados."
+  },
+  "copywriting": {
+    "title": "Social media<br />y copywriting",
+    "text": "Damos vida a la persona online de la marca, definiendo su voz y personalidad. Diseñamos estrategias digitales y de contenido para mantener el pulso de las marcas en redes sociales."
+  },
+  "brandActivation": {
+    "title": "Activación de marca",
+    "text": "Creamos experiencias análogas que captan los consumidores y posicionan a nuestros clientes a través de la vivencia."
+  }
+}

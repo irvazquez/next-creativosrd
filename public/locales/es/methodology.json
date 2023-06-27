@@ -1,0 +1,26 @@
+{
+  "benchmark": {
+    "title": "Benchmark",
+    "text": "<span style='font-weight: bold'>Analizamos</span> a la competencia, mejores prácticas, como también que están diciendo de nosotros."
+  },
+  "target": {
+    "title": "Target",
+    "text": "<span style='font-weight: bold'>Proponemos</span> un target objetivo y sus intereses para desarrollar a un comprador."
+  },
+  "objective": {
+    "title": "Objetivo",
+    "text": "Nuestro <span style='font-weight: bold'>objetivo digital</span> va construido de la mano <span style='font-weight: bold'>de acuerfo al objetivo comercial</span>."
+  },
+  "digitalEcosystem": {
+    "title": "Ecosistema digital",
+    "text": "La <span style='font-weight: bold'>plataforma</span> a usar será <span style='font-weight: bold'>de acuerdo nuestros objetivos</span>."
+  },
+  "results": {
+    "title": "Resultados",
+    "text": "Los <span style='font-weight: bold'>KPIs</span> trabajarán de acuerdo a las metas de la marca."
+  },
+  "strategy": {
+    "title": "Estrategia de Social Media",
+    "text": "<span style='font-weight: bold'>¿Qué vamos a decir y cómo lo vamos a decir?</span>"
+  }
+}

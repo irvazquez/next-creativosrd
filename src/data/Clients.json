@@ -1,0 +1,158 @@
+[
+  {
+    "logo": "/images/clients/farPost.svg",
+    "name": "FarPost",
+    "information": {
+      "location": {
+        "flag": "/images/flags/usa.webp",
+        "place": "Estados Unidos",
+        "map": "/images/maps/farPostMap.svg"
+      },
+      "service": "Estratégia de comunicación",
+      "challenge": "Crear conciencia en la sociedad sobre la adicción al fentanilo."
+    },
+    "infoCards": [
+      {
+        "icon": "/images/logos/youTube.png",
+        "title": "??",
+        "text": "Eventos, 365 días en gimnasios parques y eventos deportivos",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "icon": "/images/icons/buildings.svg",
+        "title": "??",
+        "text": "Imactos Directos",
+        "width": 150,
+        "height": 150
+      }
+    ],
+    "infoTexts": {
+      "p": "A través de una comunicación puntual en redes sociales y medios de comunicación. Además, se realizaron activaciones en puntos estratégicos de la CDMX, como la creación de un mural en vivo con un reconocido artista."
+    }
+  },
+  {
+    "logo": "/images/clients/powerade.png",
+    "name": "Power Ade",
+    "information": {
+      "location": {
+        "place": "Global",
+        "map": "/images/maps/powerade.svg"
+      },
+      "service": "Comunicación estratégica, estrategia digital, BTL, eventos, material POP, Marketing deportivo.",
+      "challenge": "Reposicionar la marca Power Ade."
+    },
+    "infoCards": [
+      {
+        "icon": "/images/icons/calendar.svg",
+        "title": "480",
+        "text": "Eventos, 365 días en gimnasios parques y eventos deportivos",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "icon": "/images/icons/impact.svg",
+        "title": "1,042,874",
+        "text": "Imactos Directos",
+        "width": 100,
+        "height": 100
+      }
+    ],
+    "infoTexts": {
+      "title": "2,122,215",
+      "subtitle": "Impactos indirectos"
+    }
+  },
+  {
+    "logo": "/images/clients/dreamfields.png",
+    "name": "Dreamfields",
+    "information": {
+      "location": {
+        "flag": "/images/flags/holanda.webp",
+        "place": "Estados Unidos",
+        "map": "/images/maps/farPostMap.svg"
+      },
+      "service": "Estratégia de comunicación",
+      "challenge": "Crear conciencia en la sociedad sobre la adicción al fentanilo."
+    },
+    "infoCards": [
+      {
+        "icon": "/images/logos/twitter.svg",
+        "title": "0 a 26,000",
+        "text": "Seguidores",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "icon": "/images/icons/buildings.svg",
+        "title": "??",
+        "text": "??",
+        "width": 150,
+        "height": 150
+      }
+    ],
+    "infoTexts": {
+      "subtitle": "Logramos gran demanda en boletos de preventa y la confianza del público para próximos eventos."
+    }
+  },
+  {
+    "logo": "/images/clients/sauza.png",
+    "name": "Casa Sauza",
+    "information": {
+      "location": {
+        "place": "Global",
+        "map": "/images/maps/powerade.svg"
+      },
+      "service": "Estratégia digital, SEO y Producción Audiovisual.",
+      "challenge": "Incrementar el engagement y generar una comunidad sólida."
+    },
+    "infoCards": [
+      {
+        "icon": "/images/logos/facebook.png",
+        "title": "282%",
+        "text": "Crecimiento de interacciones en Facebook.",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "icon": "/images/logos/instagram.png",
+        "title": "1,916%",
+        "text": "Incremento en el engagement de Instagram.",
+        "width": 300,
+        "height": 200
+      }
+    ]
+  },
+  {
+    "logo": "/images/clients/inDriver.png",
+    "name": "in Driver",
+    "information": {
+      "location": {
+        "flag": "/images/flags/rusia.webp",
+        "place": "Rusia",
+        "map": "/images/maps/inDriver.svg"
+      },
+      "service": "Diseño de estrategia y producción audiovisual.",
+      "challenge": "Introducir un nuevo servicio de movilidad en México y Latino América."
+    },
+    "infoCards": [
+      {
+        "icon": "/images/logos/youTube.png",
+        "title": "2,072,735",
+        "text": "Views",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "icon": "/images/icons/buildings.svg",
+        "title": "23",
+        "text": "Ciudades en México, Colombia, Guatemala, Chile y Brasil",
+        "width": 150,
+        "height": 150
+      }
+    ],
+    "infoTexts": {
+      "title": "Más de 13.6 MILLONES de visitas."
+    }
+  }
+]
