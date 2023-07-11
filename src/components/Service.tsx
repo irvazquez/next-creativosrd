@@ -9,32 +9,50 @@ export const Service: FC<Props> = ({
   icon,
   text,
   title,
-  idx = 0,
+  idx,
 }: IService) => {
   const { t } = useTranslation('services');
+  const handleStyles = (idx: number): string => {
+    if (idx === 6) {
+      return 'justify-center items-center text-center max-w-5xl mx-auto grow';
+    }
+    if (idx % 2 === 0) {
+      return 'w-1/2 text-left';
+    }
+
+    return 'justify-end items-end text-right w-1/2';
+  }
+
   return (
-    <>
-      <div className="flex w-1/2 items-center justify-end gap-x-10 text-right">
-        <h4
-          className={`w-full max-w-fit font-anna text-5xl font-normal uppercase text-orange-brand ${
-            idx / 2 === 0 ? 'text-left' : 'text-right'
-          }`}
-          dangerouslySetInnerHTML={{ __html: t(title) }}
-        ></h4>
+    <div className={`flex flex-col flex-wrap gap-y-5 p-10 ${handleStyles(idx)}`}>
+      <div className={`relative flex ${handleStyles(idx)}`}>
         <Image
           src={icon.src}
-          className="w-14"
-          width={50}
-          height={50}
+          className="content-end"
+          width={150}
+          height={150}
           alt={icon.alt}
         />
       </div>
-      <div className="flex w-1/2 items-center">
-        <p
-          className="px-10 text-3xl"
-          dangerouslySetInnerHTML={{ __html: t(text) }}
-        ></p>
-      </div>
-    </>
+      <h4
+        className="
+          pb-5
+          border-b-2
+          border-gray-brand
+          border-dashed
+          font-anna
+          font-normal
+          uppercase
+          text-6xl
+          text-orange-brand
+          w-3/4
+        "
+        dangerouslySetInnerHTML={{ __html: t(`${title}`) }}
+      ></h4>
+      <p
+        className="text-3xl"
+        dangerouslySetInnerHTML={{ __html: t(text) }}
+      ></p>
+    </div>
   );
 };

@@ -24,5 +24,6 @@ declare module 'i18next' {
     defaultNS: 'common';
     resources: I18nNamespaces;
     returnNull: false;
+    returnEmptyStrig: false;
   }
 }

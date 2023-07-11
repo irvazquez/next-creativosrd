@@ -9,12 +9,12 @@ export const Footer = () => {
       <div className="relative min-h-min w-full py-20">
         <Image
           src="/images/background/footer.svg"
-          className="object-cover"
+          className="object-cover opacity-50"
           alt="Image for footer"
           fill
         />
-        <div className="container m-auto">
-          <div className="relative z-10 flex flex-wrap ">
+        <div className="container mx-auto">
+          <div className="relative z-10 flex flex-wrap flex-col px-10 md:px-0">
             <div className="flex-1 justify-start">
               <div className="flex-1">
                 <Image

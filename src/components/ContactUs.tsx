@@ -2,9 +2,17 @@ import Image from 'next/image';
 
 export const ContactUs = () => {
   return (
-    <section className="bg-orange-brand py-10 text-center">
+    <section className="bg-orange-brand py-10 text-center px-5">
       <div className="container mx-auto">
-        <h3 className="font-anna text-7xl uppercase text-white">Contact us</h3>
+        <h3 className="
+          font-anna
+          text-5xl
+          md:text-7xl
+          text-white
+          uppercase
+        ">
+          Contact us
+        </h3>
         <div className="my-10 flex min-h-full flex-col flex-wrap md:flex-row">
           <div className="my-10 flex-1">
             <div className="relative h-60 w-full">

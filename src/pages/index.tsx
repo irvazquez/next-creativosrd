@@ -18,27 +18,62 @@ export default function HomePage() {
         <meta name="description" content={t('metadata.home.description')} />
       </Head>
       <Layout>
-        <section className="my-16 h-screen w-full">
-          <div className="relative h-full w-full">
+        <section className="md:my-16 h-screen w-full">
+          <div className="relative h-full w-full p-5">
             <Image
               src="/images/background/brush.png"
               className="bg-right object-cover"
               fill
               alt="Image of brush"
             />
-            <div className="flex h-full flex-wrap justify-center">
-              <div className="relative z-10 flex h-full flex-1 items-center">
-                <div className="relative h-48 w-full">
+            <div className="
+              flex
+              flex-col
+              flex-wrap
+              md:flex-row
+              md:h-full
+              justify-center
+            ">
+              <div className="
+                flex
+                flex-1
+                h-full
+                items-center
+                md:pt-0
+                pt-[50%]
+                relative
+                z-10
+              ">
+                <div className="relative md:h-48 w-full">
                   <Image
                     src="/images/logos/logo_full_dark.svg"
-                    className="object-fill"
-                    fill
+                    className="mx-auto w-[150px] h-[150px] md:w-[250px] md:h-[250px]"
+                    width={300}
+                    height={300}
                     alt="Logo Creativos RD"
                   />
                 </div>
               </div>
-              <div className="relative z-10 flex h-full flex-1 items-center">
-                <h3 className="text-left font-anna text-8xl uppercase text-white">
+              <div className="
+                flex
+                flex-1
+                h-full
+                items-center
+                md:pt-0
+                pt-16
+                relative
+                z-10
+              ">
+                <h3 className="
+                  font-anna
+                  text-6xl
+                  text-center
+                  mx-auto
+                  md:text-8xl
+                  md:text-left
+                  text-white
+                  uppercase
+                ">
                   Create revamp
                   <br />& disrupt
                 </h3>
@@ -46,9 +81,17 @@ export default function HomePage() {
             </div>
           </div>
         </section>
-        <section className="container mx-auto py-10 text-center">
+
+        <section className="container mx-auto py-10 p-5 text-center px-5">
           <div className="mx-auto max-w-screen-2xl">
-            <h3 className="text-5xlwin font-gotham font-black uppercase text-gray-text md:text-8xl">
+            <h3 className="
+              font-black
+              font-gotham
+              md:text-8xl
+              text-4xl
+              text-gray-text
+              uppercase
+            ">
               We don&apos;t seek innovation,
               <br />
               it&apos;s in our dna.
@@ -71,7 +114,15 @@ export default function HomePage() {
               fill
               alt="Image of North America"
             />
-            <div className="container relative mx-auto flex flex-wrap justify-end p-20">
+            <div className="
+              container
+              flex
+              flex-wrap
+              justify-end
+              mx-auto
+              p-20
+              relative
+            ">
               <div className="relative my-10 flex h-5 w-3/4 items-end">
                 <Image
                   src="/images/background/plus.png"
@@ -80,7 +131,15 @@ export default function HomePage() {
                   alt="Plus pattern"
                 />
               </div>
-              <p className="text-right font-gotham text-5xl font-black text-gray-text">
+              <p className="
+                font-black
+                font-gotham
+                text-2xl
+                md:text-5xl
+                md:text-right
+                text-center
+                text-gray-text
+              ">
                 Rankeados por CLUTCH, la plataforma
                 <br />
                 más importante de valoraciones y comentarios en
@@ -95,7 +154,17 @@ export default function HomePage() {
               </p>
             </div>
             <div className="mt-20 bg-gray-light py-10 lg:mt-36">
-              <div className="justify-arround container relative mx-auto flex flex-wrap lg:flex-row ">
+              <div className="
+                container
+                flex
+                flex-wrap
+                flex-col
+                md:flex-row
+                md:justify-arround
+                items-center
+                mx-auto
+                relative
+              ">
                 <div className="flex w-1/2 justify-center">
                   <Card extraStyles="border-dotted border-4">
                     <div className="flex items-start justify-center">
@@ -125,7 +194,7 @@ export default function HomePage() {
                 <div className="flex w-1/2 justify-center">
                   <Image
                     src="/images/logos/clutch-awards.png"
-                    className="absolute hidden lg:block lg:max-w-sm lg:translate-y-[-10%] xl:max-w-full xl:translate-y-[-19%]"
+                    className="absolute hidden lg:block lg:max-w-sm lg:translate-y-[-10%] xl:max-w-full xl:translate-y-[-50%]"
                     alt="Clutch awards"
                     width={500}
                     height={700}
